@@ -1,16 +1,13 @@
-# omboarding_app
+# Onboarding App for PWA
 
-A new Flutter project.
+This is an onboarding application for a Progressive Web App (PWA) built using Flutter. The project uses the `flutter_onboarding_slider` package to create a smooth and customizable onboarding experience.
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+To use this project, make sure to include the following dependencies in your `pubspec.yaml`:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_onboarding_slider: ^1.0.0
+  flutter_svg: ^1.0.3
