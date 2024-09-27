@@ -12,7 +12,20 @@
           "package_name": "com.flutter.firelog"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "465767958053-7md9onr7t23i3f6097olh8r48odep7h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.firelog",
+            "certificate_hash": "ce33eba2429436f7f37ea9e4145c439d077401ea"
+          }
+        },
+        {
+          "client_id": "465767958053-g93o02d7avm50v50ghcgf3tb00d5p7v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBPXVli5EN10B823VONV0bk-H9v5tUP-g8"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465767958053-g93o02d7avm50v50ghcgf3tb00d5p7v7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465767958053-rk0hll2d3e219asq9210gg72tu7jdaji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.firelogin.yh"
+              }
+            }
+          ]
         }
       }
     }
